@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![fp](/img/fpcv.png =100x100)
+![fp](/img/fpcv.png=100x100)
