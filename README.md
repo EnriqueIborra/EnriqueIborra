@@ -1,4 +1,5 @@
-## Bienvenido a mi repositorio 👋
+# Bienvenido a mi repositorio 👋
+Aquí podrás encontrar contenidos para módulos formativos de formación profesional de la familia de Informática y Comunicaciones.
 
 <!--
 **EnriqueIborra/EnriqueIborra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
