@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[fp]((/img/fpcv.png)
+![fp]((/img/fpcv.png)
